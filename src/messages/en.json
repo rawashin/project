@@ -1,0 +1,103 @@
+{
+  "lang": "en",
+  "main": "Home",
+  "about_rawashin": "About Rawashin",
+  "our_services": "Our Services",
+  "contact_us": "Contact Us",
+  "chances": "Opportunities",
+  "language": "Language",
+  "about_us_heading": "Rawashin",
+  "about_us_paragraph": "Established with the aim of reaching leadership, and to lead a number of investments in various and multiple sectors, and from the standpoint of our social responsibility... we work... we direct... we plant... we enhance... and we make a tangible positive impact on the lives of individuals and society. We harness our efforts, and exploit our capabilities to work towards creating opportunities and contribute to preparing a better life for all.",
+  "vision": "Our Vision",
+  "vision_paragraph": "To be the most reliable national real estate company in the Republic of Chad and beyond.",
+  "message": "Our Message",
+  "message_paragraph": "Providing housing living standards; with exceptional and high-quality specifications and standards.",
+  "mission": "Our Mission",
+  "mission_paragraph": "Promote and disseminate the culture of real estate investment and achieve Rawashin's vision in the aspect of social responsibility to increase the rate of real estate ownership for families and individuals.",
+  "chance": "Opportunities",
+  "chance_paragraph": "We provide and create investment opportunities.",
+  "trust": "Trust",
+  "trust_paragraph": "Building an environment based on honesty and trust.",
+  "responsibility": "Responsibility",
+  "responsibility_paragraph": "We take charge, and it is on our shoulders.",
+  "our_team": "Leadership Team",
+  "our_news": "Our News",
+  "soon": "Coming Soon",
+  "management": "Management | Investment",
+  "ourGoals": {
+    "title": "Our Goals",
+    "goal1": "Contribute to developing a future strategy to enhance the quality of life for individuals.",
+    "goal2": "Facilities for home ownership with various payment methods.",
+    "goal3": "Contribute to meeting the growing demand for real estate ownership."
+  },
+  "ourProjects": {
+    "title": "Exclusive Projects"
+  },
+  "ourServices": {
+    "title": "Our Services",
+    "real-estate-consulting": "Real Estate Consulting",
+    "real-estate-marketing": "Real Estate Marketing",
+    "sales": "Sales",
+    "purchase": "Purchase",
+    "property-management": "Property Management",
+    "facilities-management": "Facilities Management",
+    "finishing": "Finishing",
+    "design": "Design",
+    "execution": "Execution"
+  },
+  "ourManagement": {
+    "title": "Departments",
+    "development-and-strategic-planning-management": "Development and Strategic Planning Management",
+    "investment-management": "Investment Management",
+    "marketing-and-sales-management": "Marketing and Sales Management",
+    "legal-affairs-management": "Legal Affairs Management",
+    "financial-management": "Financial Management",
+    "support-services-management": "Support Services Management"
+  },
+  "ourPartners": {
+    "title": "Subsidiary Companies"
+  },
+  "contactUs": {
+    "title": "Your Idea Heard - Share with Us",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "name": "Name",
+    "message": "About the Idea",
+    "idea": "Idea",
+    "subject": "Subject",
+    "send": "Send"
+  },
+  "footer": {
+    "copyRight": "All Rights Reserved 2024 © | Rawashin",
+    "developed_by": "Designed and Developed by Youssef Mohamed",
+    "importantLinks": "Important Links"
+  },
+
+  "mainSection": {
+    "title": "Rawashin... Towards Excellence Always...",
+    "description": "Rawashin Real Estate... Keeping pace with investment developments, and striving for leadership in several fields, operates with integrality to achieve excellence. Established with the aim of reaching leadership, and to lead a number of investments in various and multiple sectors, from the standpoint of our social responsibility... we work... we direct... we plant... we enhance... and we make a tangible positive impact on the lives of individuals and society. We harness our efforts, and exploit our capabilities to work towards creating opportunities and contribute to preparing a better life for all.",
+    "button": "Contact Us"
+  },
+  "leaderTalk": {
+    "title": "CEO's Message",
+    "description": "Rawashin is proud to be a national company with Chadian cadres contributing to social responsibility to achieve ethical theory, and bear the responsibility of working for the benefit of the community as a whole, and contribute to achieving visions through our spread and growth throughout the region. In essence, we strive continually to achieve all that is in our field of work and serves the individual and the community.\n<br />\nAt Rawashin, we work on the continuity of developing our investments and activities on all levels by continuous organization, planning, and analyzing market trends locally, regionally, and internationally.\n<br />\nWe are determined that our vision and mission have dimensions that go beyond the present to reach the future, as we strive for the comprehensiveness of the objectives set for all timeframes and ensure the safety of the plans laid down for what achieves benefit and good for all.\n<br />\nRawashin Real Estate looks forward to playing a prominent role locally in supporting national development and harnessing development efforts.\n<br />\nAs a team, we believe in complete sincerity in work and absolute commitment to all promises.\n<br />\nIn conclusion... we affirm that, with the help of God, we are moving forward under the umbrella of our principles, with our team and our partners from various sectors, to accomplish our mission in serving our community, and we ask God Almighty for success and guidance in word and deed."
+  },
+  "whyUs": {
+    "title": "Why Us?",
+    "subTitle": "Because we invest together for the future...",
+    "reasonOneTitle": "Strategy and Methodology",
+    "reasonOneDescription": "We work at Rawashin according to a clear strategy, seeking to create a network of integrated companies in various sectors working to exchange benefits and services.",
+    "reasonTwoTitle": "Diversity and Multiplicity",
+    "reasonTwoDescription": "Our investments and projects vary to include most sectors directly related to our daily lives. We also seek to evaluate available opportunities.",
+    "reasonThreeTitle": "Establishing Foundations",
+    "reasonThreeDescription": "Our goal is not only limited to financial returns but also to make qualitative leaps and stimulate entire sectors to establish the foundations of a better future."
+  },
+  "ourTeam": {
+    "title": "Leadership Team",
+    "abdelSalam": "Real Estate Consultant AbdelSalam Al Banna",
+    "khalid": "Legal Consultant Khalid Wafiqi",
+    "walid": "Administrative Consultant Dr. Walid Ben Saleh",
+    "mohamed": "CEO Mohamed Ben Mohamed"
+  }
+}

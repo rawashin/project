@@ -1,0 +1,102 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: #201e1a;
+    --subBackground: #181818;
+    /* --background: hsl(0, 0%, 5%);
+    --subBackground: hsl(0, 0%, 10%); */
+    --primary: #a86c26;
+    --secondary: #fdd978;
+    --text: hsl(0, 0%, 95%);
+    --border: hsl(0, 0%, 20%);
+  }
+}
+/*i have font in /andalus.ttf i want to add it to body */
+@font-face {
+  font-family: "Arabtype";
+  src: url("./assets/arabtype.ttf");
+}
+
+body {
+  @apply bg-background text-text;
+  font-family: "Andalus";
+}
+p {
+  font-family: "Arabtype";
+  font-size: 24px;
+  text-align: justify;
+}
+.container {
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 0 auto;
+}
+/* Small */
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+/* Medium */
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+/* Large */
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+[lang="ar"] {
+  direction: rtl;
+}
+::-webkit-scrollbar {
+  width: 10px;
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--primary);
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+main {
+  min-height: calc(100vh - 450px);
+}
+.gradient {
+  background: linear-gradient(360deg, var(--primary), var(--secondary));
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.landingImage {
+  animation: zoom 10s infinite linear;
+  -webkit-animation: zoom 10s infinite linear;
+}
+
+@keyframes zoom {
+  0% {
+    transform: scale(1);
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}

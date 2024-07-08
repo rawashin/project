@@ -1,0 +1,103 @@
+{
+  "lang": "fr",
+  "main": "Accueil",
+  "about_rawashin": "À propos de Rawashin",
+  "our_services": "Nos Services",
+  "contact_us": "Contactez-nous",
+  "chances": "Opportunités",
+  "language": "Langue",
+  "about_us_heading": "Rawashin",
+  "about_us_paragraph": "Fondée dans le but d'atteindre le leadership et de mener un certain nombre d'investissements dans divers secteurs, et du point de vue de notre responsabilité sociale... nous travaillons... nous dirigeons... nous plantons... nous améliorons... et nous avons un impact positif tangible sur la vie des individus et de la société. Nous mettons nos efforts à profit et exploitons nos capacités pour travailler à la création d'opportunités et contribuer à préparer une vie meilleure pour tous.",
+  "vision": "Notre Vision",
+  "vision_paragraph": "Être la société immobilière nationale la plus fiable de la République du Tchad et au-delà.",
+  "message": "Notre Message",
+  "message_paragraph": "Offrir des normes de vie en matière de logement ; avec des spécifications et des normes exceptionnelles et de haute qualité.",
+  "mission": "Notre Mission",
+  "mission_paragraph": "Promouvoir et diffuser la culture de l'investissement immobilier et réaliser la vision de Rawashin dans le domaine de la responsabilité sociale pour augmenter le taux de propriété immobilière des familles et des individus.",
+  "chance": "Opportunités",
+  "chance_paragraph": "Nous offrons et créons des opportunités d'investissement.",
+  "trust": "Confiance",
+  "trust_paragraph": "Créer un environnement basé sur l'honnêteté et la confiance.",
+  "responsibility": "Responsabilité",
+  "responsibility_paragraph": "Nous prenons en charge, et c'est sur nos épaules.",
+  "our_team": "Équipe de Direction",
+  "our_news": "Nos Actualités",
+  "soon": "Bientôt",
+  "management": "Gestion | Investissement",
+  "ourGoals": {
+    "title": "Nos Objectifs",
+    "goal1": "Contribuer à élaborer une stratégie future pour améliorer la qualité de vie des individus.",
+    "goal2": "Faciliter l'accession à la propriété avec divers modes de paiement.",
+    "goal3": "Contribuer à répondre à la demande croissante de propriété immobilière."
+  },
+  "ourProjects": {
+    "title": "Projets Exclusifs"
+  },
+  "ourServices": {
+    "title": "Nos Services",
+    "real-estate-consulting": "Conseil en Immobilier",
+    "real-estate-marketing": "Marketing Immobilier",
+    "sales": "Ventes",
+    "purchase": "Achat",
+    "property-management": "Gestion Immobilière",
+    "facilities-management": "Gestion des Installations",
+    "finishing": "Finition",
+    "design": "Conception",
+    "execution": "Exécution"
+  },
+  "ourManagement": {
+    "title": "Départements",
+    "development-and-strategic-planning-management": "Gestion du Développement et de la Planification Stratégique",
+    "investment-management": "Gestion de l'Investissement",
+    "marketing-and-sales-management": "Gestion du Marketing et des Ventes",
+    "legal-affairs-management": "Gestion des Affaires Juridiques",
+    "financial-management": "Gestion Financière",
+    "support-services-management": "Gestion des Services de Support"
+  },
+  "ourPartners": {
+    "title": "Sociétés Filiales"
+  },
+  "contactUs": {
+    "title": "Votre Idée Entendue - Partagez avec Nous",
+    "address": "Adresse",
+    "phone": "Téléphone",
+    "email": "Email",
+    "name": "Nom",
+    "message": "À Propos de l'Idée",
+    "idea": "Idée",
+    "subject": "Sujet",
+    "send": "Envoyer"
+  },
+  "footer": {
+    "copyRight": "Tous droits réservés 2024 © | Rawashin",
+    "developed_by": "Conçu et Développé par Youssef Mohamed",
+    "importantLinks": "Liens Importants"
+  },
+
+  "mainSection": {
+    "title": "Rawashin... Vers l'Excellence Toujours...",
+    "description": "Rawashin Immobilier... En phase avec les développements d'investissement, et aspirant à mener dans plusieurs domaines, opère avec intégralité pour atteindre l'excellence. Fondée dans le but d'atteindre le leadership et de mener un certain nombre d'investissements dans divers secteurs, du point de vue de notre responsabilité sociale... nous travaillons... nous dirigeons... nous plantons... nous améliorons... et nous avons un impact positif tangible sur la vie des individus et de la société. Nous mettons nos efforts à profit et exploitons nos capacités pour travailler à la création d'opportunités et contribuer à préparer une vie meilleure pour tous.",
+    "button": "Contactez-nous"
+  },
+  "leaderTalk": {
+    "title": "Message du PDG",
+    "description": "Rawashin est fière d'être une entreprise nationale avec des cadres tchadiens contribuant à la responsabilité sociale pour réaliser une théorie éthique, et porter la responsabilité de travailler pour le bénéfice de la communauté dans son ensemble, et contribuer à la réalisation des visions à travers notre expansion et notre croissance dans toute la région. En essence, nous nous efforçons continuellement de réaliser tout ce qui est dans notre domaine de travail et sert l'individu et la communauté.\n<br />\nChez Rawashin, nous travaillons à la continuité du développement de nos investissements et activités sur tous les niveaux par une organisation continue, une planification et une analyse des tendances du marché localement, régionalement et internationalement.\n<br />\nNous sommes déterminés à ce que notre vision et notre mission aient des dimensions qui vont au-delà du présent pour atteindre le futur, tout en nous efforçant de l'exhaustivité des objectifs fixés pour tous les horizons temporels et en assurant la sécurité des plans établis pour ce qui réalise le bénéfice et le bien pour tous.\n<br />\nRawashin Immobilier espère jouer un rôle de premier plan localement en soutenant le développement national et en mobilisant les efforts de développement.\n<br />\nEn tant qu'équipe, nous croyons en la sincérité totale dans le travail et l'engagement absolu envers toutes les promesses.\n<br />\nEn conclusion... nous affirmons qu'avec l'aide de Dieu, nous avançons sous l'égide de nos principes, avec notre équipe et nos partenaires de divers secteurs, pour accomplir notre mission au service de notre communauté, et nous demandons à Dieu Tout-Puissant le succès et la guidance dans la parole et l'action."
+  },
+  "whyUs": {
+    "title": "Pourquoi Nous?",
+    "subTitle": "Parce que nous investissons ensemble pour l'avenir...",
+    "reasonOneTitle": "Stratégie et Méthodologie",
+    "reasonOneDescription": "Nous travaillons chez Rawashin selon une stratégie claire, cherchant à créer un réseau d'entreprises intégrées dans divers secteurs travaillant à l'échange de bénéfices et de services.",
+    "reasonTwoTitle": "Diversité et Multiplicité",
+    "reasonTwoDescription": "Nos investissements et projets varient pour inclure la plupart des secteurs directement liés à notre vie quotidienne. Nous cherchons également à évaluer les opportunités disponibles.",
+    "reasonThreeTitle": "Établissement de Fondations",
+    "reasonThreeDescription": "Notre objectif ne se limite pas seulement aux retours financiers mais aussi à faire des bonds qualitatifs et à stimuler des secteurs entiers pour établir les fondements d'un meilleur avenir."
+  },
+  "ourTeam": {
+    "title": "Équipe de Direction",
+    "abdelSalam": "Consultant en Immobilier AbdelSalam Al Banna",
+    "khalid": "Conseiller Juridique Khalid Wafiqi",
+    "walid": "Consultant Administratif Dr. Walid Ben Saleh",
+    "mohamed": "PDG Mohamed Ben Mohamed"
+  }
+}

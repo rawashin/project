@@ -4,6 +4,7 @@ import SectionHeading from "./SectionHeading";
 import useAnimation from "../hooks/useAnimation";
 import emailjs from "@emailjs/browser";
 import { useRef, useState } from "react";
+import { FaSpinner } from "react-icons/fa";
 
 const ContactUsSection = () => {
   const { t } = useTranslation();
@@ -67,6 +68,7 @@ const ContactUsSection = () => {
             className="block w-full px-6 py-4 border-2 rounded-md shadow-md focus:outline-none focus:border-secondary bg-subBackground border-subBackground "
             type="text"
             name="name"
+            disabled={isLoading}
             placeholder={t("contactUs.name")}
             required
           />
@@ -74,6 +76,7 @@ const ContactUsSection = () => {
             className="block w-full px-6 py-4 border-2 rounded-md shadow-md focus:outline-none focus:border-secondary bg-subBackground border-subBackground "
             type="email"
             name="email"
+            disabled={isLoading}
             placeholder={t("contactUs.email")}
             required
           />
@@ -81,11 +84,13 @@ const ContactUsSection = () => {
             className="block w-full px-6 py-4 border-2 rounded-md shadow-md focus:outline-none focus:border-secondary bg-subBackground border-subBackground "
             type="text"
             name="subject"
+            disabled={isLoading}
             placeholder={t("contactUs.subject")}
             required
           />
           <textarea
             className="block w-full px-6 py-4 border-2 rounded-md shadow-md focus:outline-none focus:border-secondary bg-subBackground border-subBackground "
+            disabled={isLoading}
             placeholder={t("contactUs.message")}
             name="message"
             required
@@ -96,8 +101,17 @@ const ContactUsSection = () => {
           {message === "error" && (
             <p className="text-red-500">{t("contactUs.error")}</p>
           )}
-          <button className="px-8 py-3 text-lg font-semibold rounded-md bg-primary">
-            {t("contactUs.send")}
+          <button
+            disabled={isLoading}
+            className="h-8 px-8 py-3 text-lg font-semibold rounded-md bg-primary"
+          >
+            {isLoading ? (
+              <>
+                <FaSpinner className="animate-spin" />
+              </>
+            ) : (
+              t("contactUs.send")
+            )}
           </button>
         </form>
       </div>
